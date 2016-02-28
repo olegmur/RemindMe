@@ -18,7 +18,7 @@ private Toolbar toolbar;
 {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-initToolbar();
+    initToolbar();
 
 }
 
